@@ -1,7 +1,7 @@
 .speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
-    color: black;
+    color: blue;
 }
 .stagedirection{
     font-family: 'Times New Roman', Times, serif;
@@ -46,5 +46,5 @@ th{
     margin: 10px;
 }
 tr:nth-child(even){
-    
+
 }
