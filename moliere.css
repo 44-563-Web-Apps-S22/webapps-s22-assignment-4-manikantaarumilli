@@ -32,30 +32,18 @@ td{
     border: 2px solid burlywood;
     border-collapse: border_collapse;
     text-align:left;
-    color: pink;
-    padding: 5px;
+    color: red;
+    padding: 8px;
     margin: 10px;
 }
 th{
     border: 2px solid black;
     text-align: center;
     background-color: blueviolet;
-    padding: 5px;
+    padding: 8px;
     margin: 10px;
 }
 tr:nth-child(even){
-    background-color: lightcoral;
+    background-color: lightgreen;
 
-}
-span h6:hover{
-    text-shadow: 0 0 2px black;
-    color:transparent;
-    font-size: 2opx;
-    border: dotted;
-}
-.name:hover{
-    text-shadow: 2px 4px 3px;
-    color: chartreuse;
-    filter: grayscale(3px);
-    border: double 2px black;
 }
